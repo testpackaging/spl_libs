@@ -1,6 +1,5 @@
 setupRequired(verify)
 setupRequired(verify_metrics)
-setupRequired(jointcal)
 setupRequired(synpipe)
 setupRequired(psfex)
 setupRequired(skymap)
